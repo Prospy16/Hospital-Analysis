@@ -1,9 +1,9 @@
 # Hospital-Analysis
 Analyzed hospital admission records using Power BI to uncover actionable insights on medication usage, doctor performance, and common health conditions.
 
-# 🏥 Hospital Analytics Dashboard – Power BI
+# Hospital Analytics Dashboard – Power BI
 
-## 📌 Introduction
+##  Introduction
 
 This project focuses on analyzing hospital operations using real patient data to uncover medical trends, financial performance, and patient demographics. Using Power BI, I developed three dynamic dashboards to assist hospital management in making informed decisions related to patient care, medication, and financial sustainability.
 
@@ -11,7 +11,7 @@ The analysis explores how patient profiles, disease types, and treatment costs i
 
 ---
 
-## 🎯 Project Aim
+##  Project Aim
 
 To generate actionable insights across three key areas:
 - Medical trends and disease occurrences
@@ -20,7 +20,7 @@ To generate actionable insights across three key areas:
 
 ---
 
-## 🗂️ Project Description
+##  Project Description
 
 This project includes three main dashboards:
 
