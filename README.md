@@ -74,6 +74,8 @@ Together, these dashboards support better planning, resource allocation, and pat
 
 ---
 ![image alt](https://github.com/Prospy16/Hospital-Analysis/blob/main/patients.jpg?raw=true)
+![image alt](https://github.com/Prospy16/Hospital-Analysis/blob/main/medicals.jpg?raw=true)
+
 ---
 ##  Recommendations
 
