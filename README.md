@@ -3,6 +3,14 @@ Analyzed hospital admission records using Power BI to uncover actionable insight
 
 # Hospital Analytics Dashboard – Power BI
 
+## TABLE OF CONTENTS
+- [Introduction](#introduction)
+- [Project Aim](#project-aim)
+- [Project Description](#project-description)
+- [Data cleaning and transformation](data-cleaning-and-transformation)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+
 ##  Introduction
 
 This project focuses on analyzing hospital operations using real patient data to uncover medical trends, financial performance, and patient demographics. Using Power BI, I developed three dynamic dashboards to assist hospital management in making informed decisions related to patient care, medication, and financial sustainability.
@@ -43,7 +51,7 @@ Together, these dashboards support better planning, resource allocation, and pat
 
 ---
 
- Data Cleaning and Transformation
+## Data Cleaning and Transformation
 
 - Loaded dataset using Power BI's **Get Data** option
 - Used **Power Query** to clean and reshape
@@ -54,7 +62,7 @@ Together, these dashboards support better planning, resource allocation, and pat
 
 ---
 
-Key Insights
+ ## Key Insights
 
 🔹 Paracetamol was the most prescribed medication   
 🔹 Lipitor usage linked to Obesity prevalence   
