@@ -73,7 +73,8 @@ Together, these dashboards support better planning, resource allocation, and pat
 🔹 **Blood group A-** was the most common (12.56%) which is useful for inventory
 
 ---
-
+![image alt](https://github.com/Prospy16/Hospital-Analysis/blob/main/patients.jpg?raw=true)
+---
 ##  Recommendations
 
 1. Stock high-demand medications like Paracetamol and Lipitor
